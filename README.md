@@ -1,5 +1,7 @@
 # Microsoft Azure AZ-900 Course Topics
-![Alt Text](![AZ-900](https://github.com/sanskarcorp/SanskarAzure/assets/142419598/ebb69c8a-ab3e-4dd4-940e-3ad69abe7cb9))
+![Project Image](![AZ-900](https://github.com/sanskarcorp/SanskarAzure/assets/142419598/627586cf-447f-4530-9ee0-5568e58c89dc)
+)
+
 
 Welcome to my repository! In this course, I've explored a wide range of fundamental topics related to Microsoft Azure. Below is an overview of the key concepts I've covered:
 
