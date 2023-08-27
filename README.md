@@ -2,7 +2,7 @@
 
 Welcome to my repository! In this course, I've explored a wide range of fundamental topics related to Microsoft Azure. Below is an overview of the key concepts I've covered:
 
-![AZ-9000 Certification ](E:\Quiet\images)
+![AZ-9000 Certification ]([E:\Quiet\images](https://udemy-certificate.s3.amazonaws.com/image/UC-0b880426-086c-4252-8be2-9ebbac36cdc5.jpg?v=1692026049000))
 
 ## Cloud Computing
 - Introduction to cloud computing and its benefits.
