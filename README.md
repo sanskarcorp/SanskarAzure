@@ -2,7 +2,7 @@
 
 Welcome to my repository! In this course, I've explored a wide range of fundamental topics related to Microsoft Azure. Below is an overview of the key concepts I've covered:
 
-![AZ-900 Certification ](https://udemy-certificate.s3.amazonaws.com/image/UC-0b880426-086c-4252-8be2-9ebbac36cdc5.jpg?v=1692026049000)
+![AZ-900 Certification](https://udemy-certificate.s3.amazonaws.com/image/UC-0b880426-086c-4252-8be2-9ebbac36cdc5.jpg?v=1692026049000)
 
 ## Cloud Computing
 - Introduction to cloud computing and its benefits.
@@ -36,6 +36,11 @@ Welcome to my repository! In this course, I've explored a wide range of fundamen
 - Introduction to Azure SQL Database service.
 - Overview of Azure Cosmos DB.
 - Exploring Azure Databricks for big data analytics.
+
+## PaaS, SaaS, and IaaS
+- **Platform as a Service (PaaS)**: Overview of PaaS model and its benefits.
+- **Software as a Service (SaaS)**: Understanding SaaS applications and their advantages.
+- **Infrastructure as a Service (IaaS)**: Exploring IaaS and its role in cloud computing.
 
 ## Disaster Recovery and Security
 - Implementing disaster recovery measures.
