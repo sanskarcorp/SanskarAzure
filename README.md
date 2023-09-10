@@ -64,4 +64,4 @@ Welcome to my repository! In this course, I've explored a wide range of fundamen
 - Introduction to Machine Learning in Azure.
 - Azure Logic Apps for automating workflows and processes.
 
-This repository serves as a reference for the concepts I've learned during the AZ-900 course. Feel free to explore the topics, and if you have any questions or suggestions, please don't hesitate to reach out!
+Thank You
